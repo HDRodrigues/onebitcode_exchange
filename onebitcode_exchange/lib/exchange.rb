@@ -10,6 +10,5 @@ module Currency
     rescue
       return 'Problem in Conversion'
     end
-
   end
 end
